@@ -1,2 +1,6 @@
-# shatakshicreations.com
-The Website of Shatakshi Creations
+ShatakshiCreations
+==================
+
+Website of Shatakshi Creations : House of Madhubani Paintings
+
+Makers of Madhubani Paintings.
